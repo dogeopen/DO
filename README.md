@@ -8,23 +8,26 @@
 
 
 
-# objective: remove the need for money using opensource technology 
+# Mission Statement: 
+# remove the need for money using opensource technology 
+
+# donate to those in need
 
 # transparency through blockchain
-
-
-# help us help humanity, with ideas, support, and donations
-
-
-
-X.COM/DOGEPENSOURCE
-
 
 # we are one / you are vital 
 
 
+help us help humanity, with ideas, support, and donations
 
-# *UNDER CONSTRUCTION*
+X.COM/DOGEPENSOURCE
+
+
+
+
+
+
+                          *UNDER CONSTRUCTION*
 
 
 
