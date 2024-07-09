@@ -1,5 +1,3 @@
-# opensource.doge
-
 # objective: remove the need for money using opensource technology 
 
 # transparency through blockchain
