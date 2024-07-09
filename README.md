@@ -1,3 +1,13 @@
+# Navigation Menu
+
+* [Section 1](#projects)
+* [Section 2](#ideas)
+* [Section 3](#donors)
+
+
+
+
+
 # objective: remove the need for money using opensource technology 
 
 # transparency through blockchain
