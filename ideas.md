@@ -1,2 +1,2 @@
-#ideas
+# ideas
 * [base](README.md)
