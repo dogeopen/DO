@@ -3,7 +3,7 @@
 * [projects](projects.md)
 * [ideas](ideas.md)
 * [donors](donors.md)
-
+* [linux](linux.md) 
 
 
 
