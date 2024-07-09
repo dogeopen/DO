@@ -8,19 +8,15 @@
 # help us help humanity with ideas, support, and donations. 
 
 
+
 X.COM/DOGEPENSOURCE
-
-
-
-
-# *UNDER CONSTRUCTION*
 
 
 # w e  a r e  o n e 
 
 
 
-
+# *UNDER CONSTRUCTION*
 
 
 
