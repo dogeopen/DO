@@ -1,8 +1,8 @@
 # Navigation Menu
 
-* [projects](#projects)
-* [ideas](#ideas)
-* [donors](#donors)
+* [projects](projects)
+* [ideas](ideas)
+* [donors](donors)
 
 
 
