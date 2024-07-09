@@ -12,7 +12,7 @@
 X.COM/DOGEPENSOURCE
 
 
-# w e  a r e  o n e / y o u  a r e  v i t a l 
+# we are one / you are vital 
 
 
 
