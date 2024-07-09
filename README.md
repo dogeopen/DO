@@ -1,4 +1,4 @@
-# Navigation Menu
+# dogeopensource
 
 * [projects](projects.md)
 * [ideas](ideas.md)
