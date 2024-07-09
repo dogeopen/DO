@@ -5,14 +5,14 @@
 # transparency through blockchain
 
 
-# help us help humanity with ideas, support, and donations. 
+# help us help humanity, with ideas, support, and donations
 
 
 
 X.COM/DOGEPENSOURCE
 
 
-# w e  a r e  o n e 
+# w e  a r e  o n e / y o u  a r e  v i t a l 
 
 
 
