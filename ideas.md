@@ -1,2 +1,2 @@
 # ideas
-* [base](base.md)
+* [base](README.md)
