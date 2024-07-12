@@ -9,7 +9,7 @@
 
 
 # Mission Statement: 
-# remove the need for money using opensource technology 
+# economic empowerment using opensource technology 
 
 # donate to those in need
 
