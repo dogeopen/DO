@@ -15,7 +15,7 @@
 
 # transparency through blockchain
 
-# we are one / you are vital 
+# we are one // you are vital 
 
 
 help us help humanity, with ideas, support, and donations
