@@ -1,4 +1,4 @@
-# dogeopensource
+# dogeopen
 
 * [projects](projects.md)
 * [ideas](ideas.md)
