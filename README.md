@@ -20,7 +20,7 @@
 
 help us help humanity, with ideas, support, and donations
 
-X.COM/DOGEPENSOURCE
+X.COM/DOGEOPEN
 
 
 
