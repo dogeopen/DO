@@ -29,5 +29,7 @@ X.COM/DOGEOPEN
 
                           *UNDER CONSTRUCTION*
 
+<iframe src="https://global-mind.org/gcpdot/gcp.html" height="48" width="48" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" ></iframe>
+
 
 
