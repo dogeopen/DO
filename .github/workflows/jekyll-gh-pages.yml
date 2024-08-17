@@ -10,8 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -19,7 +19,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' # Specify the Ruby version you are using
+          ruby-version: '2.7'  # Specify the Ruby version you need
 
       - name: Install dependencies
         run: |
