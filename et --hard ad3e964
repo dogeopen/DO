@@ -1,0 +1,265 @@
+[33mcommit 1a9106d15fe16763634d7d9c05bd23108608a270[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Your Name <opensourceordie@proton.me>
+Date:   Sat Aug 17 13:05:54 2024 -0400
+
+    replace read.me
+
+[33mcommit 4a2380e0297d1746cbf347bc498655cff0fa7b2f[m
+Author: Your Name <opensourceordie@proton.me>
+Date:   Sat Aug 17 12:59:11 2024 -0400
+
+    delete jekyll.yml
+
+[33mcommit c2470728bd3c22dc02f4d371b02e5472f9222188[m
+Merge: ad3e964 6a5142c
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sat Aug 17 12:42:29 2024 -0400
+
+    Merge pull request #9 from dogeopen/add-dogecoin-ticker
+    
+    Fixed errors in GitHub Actions workflow
+
+[33mcommit 6a5142ca8714c3c648d352c397770356c92e2571[m
+Author: Your Name <opensourceordie@proton.me>
+Date:   Sat Aug 17 12:41:32 2024 -0400
+
+    Fixed errors in GitHub Actions workflow
+
+[33mcommit ad3e964296a6733c21264a78c73fc4190ee2e657[m
+Merge: 795ad43 d174498
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sat Aug 17 12:18:18 2024 -0400
+
+    Merge pull request #8 from dogeopen/dogeopen-patch-1
+    
+    Merge pull request #7 from dogeopen/main
+
+[33mcommit d17449886dbf96da626bff5dd219697985c7ec3f[m[33m ([m[1;31morigin/dogeopen-patch-1[m[33m)[m
+Merge: 976aeaa 795ad43
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sat Aug 17 11:19:13 2024 -0400
+
+    Merge pull request #7 from dogeopen/main
+    
+    Merge pull request #6 from dogeopen/dogeopen-patch-1
+
+[33mcommit 795ad4340592fd0fcf37470949fe37928851b0f4[m
+Merge: b6db131 976aeaa
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sat Aug 17 08:30:18 2024 -0400
+
+    Merge pull request #6 from dogeopen/dogeopen-patch-1
+    
+    Create jekyll.yml
+
+[33mcommit 976aeaabb057e4831e08967646e9194633137731[m
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sat Aug 17 08:29:42 2024 -0400
+
+    Create jekyll.yml
+
+[33mcommit b6db13163ebaa0b1eb5c32d701f520ae31e8f09a[m
+Merge: 8de8dd5 f752d15
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sat Aug 17 08:07:15 2024 -0400
+
+    Merge pull request #5 from dogeopen/add-dogecoin-ticker
+    
+    Add Dogecoin price ticker to README.md
+
+[33mcommit f752d15c637ca5a6667e657b5bb8e9bf4e1836b5[m
+Author: Your Name <opensourceordie@proton.me>
+Date:   Sat Aug 17 08:05:49 2024 -0400
+
+    Add Dogecoin price ticker to README.md
+
+[33mcommit 8de8dd5780af47274af9c6c832354928029c1df6[m
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sun Jul 14 19:57:07 2024 -0400
+
+    Update README.md
+
+[33mcommit 96f512111498010a4d30dc04720f9e6306c31145[m
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sun Jul 14 19:51:08 2024 -0400
+
+    Update README.md
+
+[33mcommit 11756ec0e5e0c24a72761190f4c7dd8ae0f202a0[m
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sat Jul 13 10:58:46 2024 -0400
+
+    Update README.md
+
+[33mcommit 7d5feaefcd4ee38bc3e52fc31fb9ca24ace9d75a[m
+Author: d o g e o p e n <dogeopensource@proton.me>
+Date:   Sat Jul 13 10:48:38 2024 -0400
+
+    Update README.md
+
+[33mcommit 8e088071c3eb730302fa6b5b913f1f9ead2ce036[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Sat Jul 13 06:52:03 2024 -0400
+
+    Update README.md
+
+[33mcommit 6bc99ca7187eb9b526093a19e3d93cb2211fdaab[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Fri Jul 12 12:51:30 2024 -0400
+
+    Update README.md
+
+[33mcommit b6ffea8b2ec25d132324723010a7f25ec1b792b9[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 05:03:26 2024 -0400
+
+    Update projects.md
+
+[33mcommit c9b2b9abad6d98d3e80060c7999ce459d7eab930[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 05:03:11 2024 -0400
+
+    Update linux.md
+
+[33mcommit 5772c79846fc17c26f526170730636d0abe0aad5[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 05:02:52 2024 -0400
+
+    Update ideas.md
+
+[33mcommit 6a324556f01f5a076723cd9a097f05796dec5592[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 05:02:28 2024 -0400
+
+    Update donors.md
+
+[33mcommit 948ae58cd12f0ef91484445aed322e67d7ad5bb7[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 04:59:37 2024 -0400
+
+    Update projects.md
+
+[33mcommit 9b25b665b03dd771763b9290e5db016f8f8124c4[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 04:59:13 2024 -0400
+
+    Update linux.md
+
+[33mcommit 3b61a8381250221ba7eb4c2e0f92f7562d4eccd7[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 04:58:53 2024 -0400
+
+    Update ideas.md
+
+[33mcommit a7628d42b42e286f7ba444e54789000df3c5c45a[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 04:58:12 2024 -0400
+
+    Update donors.md
+
+[33mcommit 94cb8b0fda7927904685dd085c0c0abf8602ce57[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Wed Jul 10 04:56:05 2024 -0400
+
+    Rename base.md to README.md
+
+[33mcommit b5aa5b76e3c24778bbcab00a19cc0cd7528e0faf[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 19:59:58 2024 -0400
+
+    Update base.md
+
+[33mcommit 99f93b6c0a47542652ef5ca54839af88bf4ff97b[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 19:56:49 2024 -0400
+
+    Update linux.md
+
+[33mcommit 5d78c3483a2b5e51e5025401ccb10bcd0abfcda9[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 19:53:50 2024 -0400
+
+    Update projects.md
+
+[33mcommit 82d7ef9fb78ceaf23fd0e1a9b863163a8a0f395c[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 19:52:30 2024 -0400
+
+    Update ideas.md
+
+[33mcommit 81175a60c2b00848a70db2286a1d5bc755ee0bcf[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 19:51:08 2024 -0400
+
+    Update donors.md
+
+[33mcommit ada3413449ab824e4da088b2a9227a04fb82269a[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 19:50:09 2024 -0400
+
+    Rename landing pad.md to base.md
+
+[33mcommit c3f0df17e5b5faf3f1d820df82a178e07af7c7d2[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 19:49:24 2024 -0400
+
+    Rename README.md to landing pad.md
+
+[33mcommit 168c9632020114dd01a47d2d6c5618e60cc96db8[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 18:00:36 2024 -0400
+
+    Create linux.md
+
+[33mcommit da1479089f376c2cd10f5c3a49d2999361e6dd00[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 17:24:02 2024 -0400
+
+    Update ideas.md
+
+[33mcommit 24cd4208864d71ad545df6b4e494697ded7a272c[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 15:00:48 2024 -0400
+
+    Update README.md
+
+[33mcommit 81990bbc0f671221a94f7c1bc68bfa61cf3d2baa[m
+Merge: cb59266 e28e175
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 14:53:00 2024 -0400
+
+    Merge pull request #4 from dogeopensource/dogeopensource-patch-5
+    
+    Update README.md
+
+[33mcommit e28e1756ad68518d538dad1be2e7bcfc6e85987d[m[33m ([m[1;31morigin/dogeopensource-patch-5[m[33m)[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 14:52:44 2024 -0400
+
+    Update README.md
+
+[33mcommit cb59266f1ba24c321c8d3c3bbd341379d00250b0[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 14:40:51 2024 -0400
+
+    Update projects.md
+
+[33mcommit 19095b080bfee0389353410842a642a0d638efd7[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 14:38:28 2024 -0400
+
+    Update donors.md
+
+[33mcommit 2df8dce0975c7ffab64d3860abab4cb7b4c31517[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 14:33:12 2024 -0400
+
+    Rename donors to donors.md
+
+[33mcommit 526aedf652f8e4824153d0b94784816e55fd26e9[m
+Author: d o g e o p e n s o u r c e <dogeopensource@proton.me>
+Date:   Tue Jul 9 14:32:41 2024 -0400
+
+    Create donors
+
+[33mcommit 3d956912224d3a
